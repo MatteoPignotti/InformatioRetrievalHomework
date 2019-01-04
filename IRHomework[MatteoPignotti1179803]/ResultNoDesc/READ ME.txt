@@ -1,0 +1,3 @@
+Ogni cartella contiene i file relativi ad una specifica run, come richiesto dall'homework. Nella cartella Script Anova è possibile trovare
+gli script matlab dei test statistici relativi AP, P10 e Rprec. In ogni cartella sono presenti poi in formato jpg i grafici di questi test, 
+semmai nella relazione le immagini dovessero perdere risoluzione.
