@@ -1,6 +1,6 @@
-# Settings of Terrier (TRECQuerying) generated for run /Users/Francescomandru/desktop/HW1/terrier-core-4.4/var/results/TF_IDF_8.res
+# Settings of Terrier (TRECQuerying) generated for run /Users/MatteoPignotti/desktop/HW1/terrier-core-4.4/var/results/TF_IDF_8.res
 #Sat Dec 15 02:08:18 CET 2018
-trec.topics=/Users/Francescomandru/Desktop/HW1/topics.351-400_trec7.txt
+trec.topics=/Users/MatteoPignotti/Desktop/HW1/topics.351-400_trec7.txt
 trec.runtag=TF_IDF
 tokeniser=org.terrier.indexing.tokenisation.EnglishTokeniser
 memory.reserved=100Mi
@@ -45,13 +45,13 @@ querying.postfilters.order=SimpleDecorate,SiteFilter,Scope
 trec.results.suffix=.res
 trec.model=TF_IDF
 block.indexing=false
-terrier.etc=/Users/Francescomandru/desktop/HW1/terrier-core-4.4/etc
+terrier.etc=/Users/MatteoPignotti/desktop/HW1/terrier-core-4.4/etc
 ignore.low.idf.terms=false
 terrier.var=var
 lowercase=true
 querying.allowed.controls=scope,qe,qemodel,start,end,site,scope
 TrecQueryTags.process=TOP,NUM,TITLE
-terrier.home=/Users/Francescomandru/desktop/HW1/terrier-core-4.4
+terrier.home=/Users/MatteoPignotti/desktop/HW1/terrier-core-4.4
 trec.encoding=US-ASCII
 querying.preprocesses.controls=
 terrier.index.prefix=data
@@ -64,7 +64,7 @@ files.default.scheme=file
 querying.preprocesses.order=
 trec.manager=Manager
 querying.postprocesses.order=QueryExpansion
-# topicfile: /Users/Francescomandru/Desktop/HW1/topics.351-400_trec7.txt
+# topicfile: /Users/MatteoPignotti/Desktop/HW1/topics.351-400_trec7.txt
 # run started at: 1544836097577
 # run finished at 1544836098742
 # c=0.0 c_set=false
